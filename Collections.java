@@ -5,6 +5,8 @@ listStrings.add("Three");
 listStrings.add("Four");
 System.out.println(listStrings);
 
+// Adding new logic
+Map<String, String> map = mew HashMap<String, String>();
 
 List<Object> listAnything = new ArrayList<Object>();
 List<String> listWords = new ArrayList<String>();
